@@ -1,0 +1,1 @@
+﻿package actionscript {	import flash.display.MovieClip;	//import will automatically be added if you select the class from the dropdown list	public class Main extends MovieClip	{		public function Main() {			// constructor code			trace ("it worked, crazed!");		}	}	}
